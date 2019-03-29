@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("552164815640985639")
+let channel =     client.channels.get("560993840547233815")
 setInterval(function() {
 channel.send(`**Fares spam , Fares spam , Fares spam , Fares spam Fares spamFares spamFares spamFares spamFares spamFares spamFares spamFares spamFares spamFares spam , Fares spam , Fares spam , Fares spam , Fares spam , Fares spam , Fares spam , Fares spam , Fares spam , Fares spam , Fares spam , Faresspam , Fares, Fares,Fares** ,`);
 }, 30)
